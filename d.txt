@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 d: create d.txt
-=======
 d: create txt
 
 2:modiied on dev
->>>>>>> dev
